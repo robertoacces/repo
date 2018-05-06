@@ -7,9 +7,9 @@
 </HEAD>
 <BODY>
 
-<H1> HOLA MUNDO</H1> 
+<H1> Bienvenido a El Salvador</H1> 
 
-<P>Al fin lo logre <P> 
+<P><h2>Al fin lo logre <h2><P> 
 
 <hr> 
 
