@@ -9,7 +9,8 @@
 
 <H1> Bienvenido a El Salvador</H1> 
 
-<P><h2>Al fin lo logre <h2><P> 
+<P><h2>BIENVENIDO A EL SALVADOR TURISMO ¡SU EXPERTO LOCAL! 
+Lleno de atracciones por descubrir, El Salvador ofrece al visitante más de 300 kilómetros de costa del océano pacifico, majestuosos volcanes y un extenso sistema de parques y reservas nacionales además de toda la cultura de sus pueblos coloniales y parques arqueológicos, vestigio de pasado rico en historia.  <h2><P> 
 
 <hr> 
 
